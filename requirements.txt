@@ -1,0 +1,2 @@
+# cracker.py uses only Python standard library modules
+# (hashlib, zipfile, argparse, itertools) — no external dependencies required.
